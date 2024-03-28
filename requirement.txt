@@ -1,0 +1,9 @@
+
+npm install
+next-auth
+@mui/material
+@emotion/react
+@emotion/styled
+
+@mui/icons-material
+axios
