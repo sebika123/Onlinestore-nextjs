@@ -1,9 +1,7 @@
 
-npm install
-next-auth
-@mui/material
-@emotion/react
-@emotion/styled
 
-@mui/icons-material
-axios
+ npm install next-auth @mui/material @emotion/react @emotion/styled @mui/icons-material axios
+
+npm install @reduxjs/toolkit
+npm install react-redux
+npm install @mui/styles
